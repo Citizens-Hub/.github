@@ -1,12 +1,12 @@
-## Hi there 
+# Citizens' Hub
 
-<!--
+Planning your ship upgrades has never been easier!
 
-**Here are some ideas to get you started:**
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/EduarteXD/citizenshub)
 
- A short introduction - what is your organization all about?
- Contribution guidelines - how can the community get involved?
- Useful resources - where can the community find your docs? Is there anything else the community should know?
- Fun facts - what does your team eat for breakfast?
- Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![image](https://github.com/user-attachments/assets/1cd00be3-62fb-49e5-90d2-56dba31c8dcd)
+
+- Browse all available ships
+- Plan your upgrade path using pledges from your hangar
+- See upgrade paths and costs at a glance
+- Export & import your CCU chain
