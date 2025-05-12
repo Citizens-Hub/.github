@@ -2,7 +2,7 @@
 
 Planning your ship upgrades has never been easier!
 
-![](https://dcbadge.limes.pink/api/server/AEuRtb5Vy8)
+[![](https://dcbadge.limes.pink/api/server/AEuRtb5Vy8)](https://discord.gg/AEuRtb5Vy8)
 
 [Citizens' Hub](https://citizenshub.app/ccu-planner)
 
