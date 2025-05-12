@@ -2,7 +2,7 @@
 
 Planning your ship upgrades has never been easier!
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/EduarteXD/citizenshub)
+![](https://dcbadge.limes.pink/api/server/AEuRtb5Vy8)
 
 [Citizens' Hub](https://citizenshub.app/ccu-planner)
 
